@@ -4,7 +4,7 @@ This respository is inspired by [Kyber Workshop repo](https://github.com/KyberNe
 
 Use this example code if you don't want to use Truffle and Ganache and simply want to see how smart contracts can interface with Kyber's smart-contracts for [Trade](https://github.com/hammadtq/Kyber-Smart-Contracts-Examples-for-Remix/blob/master/contracts/Trade.sol), [Ether to Token swap](https://github.com/hammadtq/Kyber-Smart-Contracts-Examples-for-Remix/blob/master/contracts/SwapEtherToToken.sol), [Token to Token swap](https://github.com/hammadtq/Kyber-Smart-Contracts-Examples-for-Remix/blob/master/contracts/SwapTokenToToken.sol) and [Token to Ether swap](https://github.com/hammadtq/Kyber-Smart-Contracts-Examples-for-Remix/blob/master/contracts/SwapTokenToEther.sol).
 
-#Steps to run an example
+## Steps to run an example
 - Load all of the files located in contracts/ folder to your [Remix IDE](https://remix.ethereum.org).
 - Now switch to one of the examples such as [SwapEtherToToken.sol](https://github.com/hammadtq/Kyber-Smart-Contracts-Examples-for-Remix/blob/master/contracts/SwapEtherToToken.sol) contract inside the remix.
 - Select 4.0.18 as your compiler in the Remix IDE.
